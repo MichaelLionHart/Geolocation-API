@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(195, 240, 241);
+}
+
+#content {
+    background-color: aquamarine;
+    width: 900px;
+    margin: 0 auto;
+}
+
+#header {
+    background-color: cornflowerblue;
+    text-align: center;
+    margin-top: -10px;
+    padding: 10px;
+}
+
+#loc {
+    text-align: center;
+    padding: 10px;
+}
